@@ -1,0 +1,236 @@
+Uri: https://area52-eve.github.io/area52web/
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\index.htm
+Content Type: text/html
+
+Uri: https://area52-eve.github.io/area52web/assets/css/blog.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\css\blog.css
+Content Type: text/css
+
+Uri: https://area52-eve.github.io/area52web/assets/css/gh-md.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\css\gh-md.css
+Content Type: text/css
+
+Uri: https://area52-eve.github.io/area52web/assets/css/main.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\css\main.css
+Content Type: text/css
+
+Uri: https://area52-eve.github.io/area52web/assets/css/normalize.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://area52-eve.github.io/area52web/assets/css/uikit.min.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\css\uikit.min.css
+Content Type: text/css
+
+Uri: https://area52-eve.github.io/area52web/assets/images/01.png
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\images\01.png
+Content Type: image/png
+
+Uri: https://area52-eve.github.io/area52web/assets/images/06.png
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\images\06.png
+Content Type: image/png
+
+Uri: https://area52-eve.github.io/area52web/assets/images/bg.png
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\images\bg.png
+Content Type: image/png
+
+Uri: https://area52-eve.github.io/area52web/assets/images/hac.png
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\images\hac.png
+Content Type: image/png
+
+Uri: https://area52-eve.github.io/area52web/assets/images/logo.png
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://area52-eve.github.io/area52web/assets/js/main.js
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://area52-eve.github.io/area52web/assets/js/uikit-icons.min.js
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\js\uikit-icons.min.js
+Content Type: application/javascript
+
+Uri: https://area52-eve.github.io/area52web/assets/js/uikit.min.js
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\assets\js\uikit.min.js
+Content Type: application/javascript
+
+Uri: https://area52-eve.github.io/area52web/blog.html
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\blog.html
+Content Type: text/html
+
+Uri: https://area52-eve.github.io/area52web/feed.xml
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\feed.xml
+Content Type: application/xml
+
+Uri: https://area52-eve.github.io/area52web/index.html
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\area52web\index.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&family=Poppins:ital,wght@0,100;0,300;0,400;0,600;0,700;0,900;1,100;1,300;1,400;1,600;1,700;1,900&family=Titillium+Web:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPy-v.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6u-w4BMUTPHjxsIPy-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30wWw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6u8w4BMUTPHh30wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\lato\v23\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\poppins\v20\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPAcZTIAOhVxoMyOr9n_E7fdMbmCA.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPAcZTIAOhVxoMyOr9n_E7fdMbmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffBzCKIw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffBzCKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffGjEKIw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffGjEKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPDcZTIAOhVxoMyOr9n_E7ffHjDKIw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPecZTIAOhVxoMyOr9n_E7fRMQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhzZg.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5zZg.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5zZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v15/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlzZg.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\s\titilliumweb\v15\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlzZg.ttf
+Content Type: font/ttf
+
+Uri: https://images.ctfassets.net/7lhcm73ukv5p/4aO41OX3cxAzGcPN4HGKcE/dbaf443f34a59d5a2ebe06b11a01ac32/www-bottom-bg.jpg
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\7lhcm73ukv5p\4aO41OX3cxAzGcPN4HGKcE\dbaf443f34a59d5a2ebe06b11a01ac32\www-bottom-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://images.evetech.net/characters/2112957416/portrait
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\characters\2112957416\portrait
+Content Type: image/jpeg
+
+Uri: https://images.evetech.net/characters/2114407645/portrait
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\characters\2114407645\portrait
+Content Type: image/jpeg
+
+Uri: https://images.evetech.net/characters/2118703723/portrait
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\characters\2118703723\portrait
+Content Type: image/jpeg
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/firacode-nerd-font.css
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\firacode-nerd-font.css
+Content Type: text/css
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Bold Nerd Font Complete.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Bold Nerd Font Complete.ttf
+Content Type: font/ttf
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Bold Nerd Font Complete.woff2
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Bold Nerd Font Complete.woff2
+Content Type: font/woff2
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Light Nerd Font Complete.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Light Nerd Font Complete.ttf
+Content Type: font/ttf
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Light Nerd Font Complete.woff2
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Light Nerd Font Complete.woff2
+Content Type: font/woff2
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Medium Nerd Font Complete.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Medium Nerd Font Complete.ttf
+Content Type: font/ttf
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Medium Nerd Font Complete.woff2
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Medium Nerd Font Complete.woff2
+Content Type: font/woff2
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Regular Nerd Font Complete.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Regular Nerd Font Complete.ttf
+Content Type: font/ttf
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Regular Nerd Font Complete.woff2
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Regular Nerd Font Complete.woff2
+Content Type: font/woff2
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Retina Nerd Font Complete.ttf
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Retina Nerd Font Complete.ttf
+Content Type: font/ttf
+
+Uri: https://mshaugh.github.io/nerdfont-webfonts/build/fonts/Fira Code Retina Nerd Font Complete.woff2
+File Name: C:\Users\ricar\Desktop\area52-eve.github.io\nerdfont-webfonts\build\fonts\Fira Code Retina Nerd Font Complete.woff2
+Content Type: font/woff2
+
